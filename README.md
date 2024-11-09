@@ -2,5 +2,5 @@
 Nama : Ni Putu Indah Arta Yuniari <br> NIM : 210030177
 
 ## Tampilan
-![Error](/assets/error.png)
-![Success](/assets/success.png)
+![Error](lib/assets/error.png)
+![Success](lib/assets/success.png)
